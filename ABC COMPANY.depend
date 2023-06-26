@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619440378 source:c:\users\benson\documents\abc company\main.cpp
+	<iostream>
+	<iomanip>
+
